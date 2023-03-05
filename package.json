@@ -1,0 +1,17 @@
+{
+  "name": "emit-deps-webpack-plugin",
+  "version": "1.0.0",
+  "description": "a webpack plugin to emit main dependencies(user code, not library code).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "webpack": "^5.1.0"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "https://github.com/eunsukimme",
+  "license": "MIT"
+}
