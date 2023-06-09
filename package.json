@@ -12,6 +12,10 @@
   "keywords": [
     "webpack"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eunsukimme/emit-deps-webpack-plugin.git"
+  },
   "author": "https://github.com/eunsukimme",
   "license": "MIT"
 }
