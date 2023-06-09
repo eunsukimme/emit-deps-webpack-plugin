@@ -1,5 +1,5 @@
 const path = require('path');
-const { EmitDependenciesPlugin } = require('../index')
+const { EmitDependenciesPlugin } = require('emit-deps-webpack-plugin')
 
 module.exports = {
   entry: './src/main.js',
